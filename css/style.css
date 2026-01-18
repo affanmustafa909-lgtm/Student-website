@@ -131,7 +131,7 @@
 
 .hero-section {
     height: 100vh;
-    background: url(/image/hero-img.jpg) no-repeat center center/cover;
+    background: url(../image/hero-img.jpg) no-repeat center center/cover;
     position: relative;
 }
 
@@ -188,7 +188,7 @@
 
 .about-section {
     position: relative;
-    background: url("/image/background.jpg") no-repeat center/cover;
+    background: url("../image/background.jpg") no-repeat center/cover;
     padding: 80px 0;
 }
 
