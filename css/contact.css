@@ -1,0 +1,34 @@
+.contact-section h6 {
+    color: #ff66a3; /* pink */
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.contact-section h2 {
+    color: #333;
+}
+
+.contact-section .contact-info p,
+.contact-section .contact-info a {
+    color: #555;
+    font-size: 0.95rem;
+}
+
+.contact-section .contact-info .social-icons a:hover {
+    color: #007bff; /* blue highlight */
+}
+
+.contact-form .btn-pink {
+    background: #ff66a3;
+    color: #fff;
+    border-radius: 50px;
+    border: none;
+    transition: 0.3s;
+}
+
+.contact-form .btn-pink:hover {
+    background: #ff3399;
+    color: #fff;
+}
+
